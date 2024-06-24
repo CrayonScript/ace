@@ -24,4 +24,4 @@ jam/
 npm-debug.log
 deps/
 dist
-build
+build/
